@@ -1,0 +1,2143 @@
+armed,gender,manner_of_death,threat_level,flee,body_camera,signs_of_mental_illness
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot and Tasered,other,Not fleeing,False,False
+toy weapon,M,shot,attack,Not fleeing,False,True
+nail gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,F,shot,other,Not fleeing,True,False
+toy weapon,M,shot,attack,Not fleeing,False,False
+knife,M,shot and Tasered,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Foot,True,False
+vehicle,M,shot,undetermined,Not fleeing,False,False
+shovel,M,shot,attack,Not fleeing,True,False
+unarmed,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,True,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot and Tasered,attack,Foot,False,False
+gun,M,shot,attack,Foot,True,False
+knife,M,shot,other,Not fleeing,False,True
+vehicle,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+knife,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,True,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+knife,M,shot and Tasered,other,Not fleeing,False,False
+gun,M,shot,attack,Foot,True,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot and Tasered,attack,Not fleeing,False,True
+knife,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,other,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+toy weapon,M,shot,attack,Car,False,False
+knife,F,shot and Tasered,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+vehicle,M,shot,other,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+vehicle,F,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+unarmed,M,shot,other,Car,False,False
+knife,M,shot,other,Not fleeing,False,True
+vehicle,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,F,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+hammer,M,shot and Tasered,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,other,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot and Tasered,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,other,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Foot,False,False
+gun,F,shot,attack,Car,False,False
+knife,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+unarmed,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+unarmed,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+knife,M,shot,other,Not fleeing,False,False
+gun,M,shot,other,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+toy weapon,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,undetermined,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot and Tasered,other,Foot,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,True
+knife,M,shot,other,Not fleeing,False,True
+toy weapon,M,shot,attack,Foot,True,True
+vehicle,M,shot,attack,Car,False,False
+gun,M,shot,attack,Car,False,False
+unarmed,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Car,False,True
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot and Tasered,other,Not fleeing,False,True
+gun,M,shot,attack,Foot,False,False
+hatchet,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+toy weapon,M,shot,attack,Not fleeing,False,True
+gun,F,shot,attack,Not fleeing,False,False
+unarmed,M,shot,other,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+toy weapon,M,shot,attack,Foot,False,False
+vehicle,M,shot,other,Not fleeing,False,False
+undetermined,F,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Car,False,False
+unarmed,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot and Tasered,attack,Car,False,False
+unarmed,M,shot and Tasered,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot and Tasered,attack,Not fleeing,False,True
+vehicle,M,shot,other,Car,False,False
+gun,M,shot,attack,Not fleeing,False,True
+unarmed,M,shot and Tasered,other,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+knife,M,shot,other,Not fleeing,False,False
+unarmed,M,shot,other,Not fleeing,False,False
+gun,F,shot,attack,Car,False,False
+unarmed,M,shot,undetermined,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot and Tasered,attack,Not fleeing,True,False
+unarmed,M,shot,other,Car,False,False
+knife,F,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Car,False,True
+gun,F,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot and Tasered,attack,Not fleeing,True,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,other,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,True
+unarmed,M,shot,other,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,undetermined,Foot,False,False
+vehicle,M,shot,other,Not fleeing,False,False
+unarmed,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,attack,Car,False,False
+knife,F,shot,other,Not fleeing,True,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,True,False
+sword,M,shot,other,Car,False,True
+gun,M,shot,attack,Not fleeing,True,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+toy weapon,M,shot,attack,Not fleeing,False,True
+vehicle,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+vehicle,M,shot,other,Not fleeing,False,False
+unarmed,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,other,Foot,False,False
+gun,M,shot,other,Other,False,False
+gun,M,shot,attack,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+machete,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+unarmed,M,shot,undetermined,Car,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Foot,False,False
+vehicle,F,shot,other,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,False,False
+gun,F,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+unarmed,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+box cutter,M,shot,other,Not fleeing,True,True
+unarmed,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,True,False
+gun,M,shot,attack,Car,False,False
+machete,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,True
+knife,M,shot and Tasered,other,Foot,False,True
+undetermined,M,shot and Tasered,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,True
+gun,M,shot,attack,Not fleeing,False,True
+undetermined,M,shot,other,Car,True,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot and Tasered,other,Not fleeing,False,True
+gun,F,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,False,False
+toy weapon,M,shot,attack,Car,False,False
+gun,M,shot,attack,Foot,False,False
+knife,F,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+toy weapon,M,shot,attack,Not fleeing,False,False
+vehicle,F,shot,other,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot and Tasered,attack,Not fleeing,False,True
+unarmed,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,True,False
+gun,M,shot,attack,Foot,False,False
+unarmed,M,shot and Tasered,other,Foot,False,False
+gun,M,shot,attack,Not fleeing,True,False
+gun,M,shot,attack,Car,False,True
+knife,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Car,False,False
+vehicle,M,shot,attack,Car,False,False
+gun,M,shot,attack,Foot,False,False
+knife,M,shot,other,Not fleeing,False,True
+vehicle,M,shot and Tasered,attack,Other,False,False
+sword,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,True,True
+gun,M,shot,attack,Foot,True,False
+machete,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Car,False,True
+gun,M,shot,attack,Not fleeing,False,False
+undetermined,M,shot,undetermined,Foot,False,False
+machete,M,shot,attack,Not fleeing,False,True
+gun,M,shot,undetermined,Foot,False,False
+knife,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,other,Car,False,False
+toy weapon,M,shot,attack,Car,True,False
+gun,M,shot,attack,Not fleeing,False,True
+toy weapon,M,shot,attack,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,True,True
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+knife,M,shot,attack,Not fleeing,False,False
+gun,M,shot,other,Not fleeing,False,False
+vehicle,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,other,Foot,False,True
+knife,M,shot,other,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,False,True
+unarmed,M,shot,undetermined,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,True
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,other,Not fleeing,False,False
+vehicle,F,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Foot,True,False
+machete,M,shot,other,Not fleeing,True,True
+unarmed,M,shot,attack,Foot,False,True
+knife,M,shot,other,Not fleeing,False,True
+unarmed,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+hammer,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,True,False
+gun,M,shot,attack,Not fleeing,False,True
+knife,M,shot,other,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,F,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+unarmed,M,shot,other,Not fleeing,True,True
+metal object,M,shot and Tasered,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,True,False
+gun,M,shot,attack,Not fleeing,True,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+toy weapon,M,shot,attack,Not fleeing,False,True
+unarmed,M,shot,attack,Not fleeing,True,False
+knife,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Car,False,False
+knife,M,shot,other,Not fleeing,False,True
+knife,M,shot,other,Car,False,False
+vehicle,M,shot,attack,Car,False,False
+sword,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,other,Car,False,False
+vehicle,M,shot,attack,Car,False,False
+machete,M,shot,other,Not fleeing,False,True
+gun,M,shot,other,Foot,False,False
+gun,M,shot and Tasered,attack,Not fleeing,False,False
+undetermined,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Car,False,True
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+toy weapon,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Foot,True,True
+gun,M,shot,attack,Not fleeing,False,True
+sword,M,shot,other,Not fleeing,False,False
+unarmed,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Other,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot and Tasered,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,F,shot and Tasered,other,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,undetermined,Not fleeing,False,True
+knife,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+toy weapon,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+gun,F,shot,attack,Not fleeing,False,True
+knife,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+undetermined,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,False
+toy weapon,M,shot,attack,Not fleeing,False,True
+knife,M,shot,attack,Not fleeing,False,True
+unarmed,M,shot and Tasered,other,Not fleeing,False,False
+screwdriver,M,shot and Tasered,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+lawn mower blade,M,shot and Tasered,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,attack,Foot,False,False
+toy weapon,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+toy weapon,M,shot,attack,Not fleeing,True,False
+gun,M,shot,attack,Other,False,True
+knife,M,shot,other,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Car,False,False
+unarmed,M,shot and Tasered,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,True
+knife,M,shot,other,Car,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+vehicle,F,shot,other,Car,False,False
+gun,M,shot and Tasered,attack,Not fleeing,True,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+box cutter,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,True,True
+gun,M,shot,attack,Not fleeing,False,True
+unarmed,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,other,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+undetermined,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,False,True
+toy weapon,F,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+flagpole,M,shot,other,Not fleeing,False,False
+guns and explosives,M,shot,attack,Not fleeing,False,True
+vehicle,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,True
+unarmed,M,shot,other,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,F,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,True
+knife,M,shot,attack,Foot,False,False
+knife,M,shot,other,Foot,False,True
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+unarmed,M,shot,other,Not fleeing,False,True
+cordless drill,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Car,False,False
+unarmed,M,shot,other,Car,False,False
+knife,M,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Foot,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,True,False
+unarmed,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Other,False,False
+gun,M,shot,other,Foot,False,False
+gun,M,shot,attack,Not fleeing,True,False
+toy weapon,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Car,False,False
+toy weapon,M,shot,attack,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,False,False
+unarmed,M,shot,attack,Foot,False,False
+crossbow,M,shot,attack,Not fleeing,False,True
+knife,M,shot and Tasered,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Foot,False,False
+toy weapon,M,shot and Tasered,attack,Not fleeing,False,True
+unarmed,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,True,True
+knife,M,shot and Tasered,attack,Car,False,False
+vehicle,M,shot and Tasered,attack,Other,False,True
+knife,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+metal pole,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+knife,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Car,False,False
+knife,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,attack,Car,True,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,True
+Taser,M,shot and Tasered,attack,Other,False,False
+sword,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,True,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Foot,False,True
+unarmed,M,shot and Tasered,attack,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+vehicle,M,shot,attack,Not fleeing,False,False
+box cutter,M,shot and Tasered,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+metal pipe,M,shot and Tasered,other,Not fleeing,False,True
+metal hand tool,M,shot and Tasered,other,Not fleeing,False,True
+sword,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Other,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+knife,M,shot,other,Foot,False,False
+unarmed,M,shot and Tasered,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,True
+unarmed,M,shot,attack,Foot,False,False
+undetermined,M,shot,other,Other,False,False
+knife,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,other,Car,True,False
+gun,M,shot,attack,Other,False,False
+knife,M,shot,other,Not fleeing,False,False
+unarmed,M,shot,other,Not fleeing,False,False
+gun,M,shot,other,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot and Tasered,other,Other,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot and Tasered,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+toy weapon,M,shot,attack,Not fleeing,False,False
+gun,F,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot and Tasered,other,Not fleeing,False,False
+blunt object,M,shot,attack,Car,False,True
+gun,M,shot,attack,Not fleeing,False,True
+toy weapon,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,other,Other,False,False
+knife,M,shot,attack,Not fleeing,False,False
+toy weapon,M,shot,attack,Car,False,True
+knife,M,shot and Tasered,other,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,False
+gun,M,shot,undetermined,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+metal stick,M,shot and Tasered,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,True,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+toy weapon,M,shot,attack,Not fleeing,False,True
+undetermined,M,shot,other,Not fleeing,False,True
+gun,M,shot,undetermined,Not fleeing,True,True
+knife,M,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+hatchet,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+unarmed,M,shot,other,Not fleeing,False,False
+sharp object,M,shot,other,Not fleeing,True,True
+toy weapon,M,shot,attack,Not fleeing,False,True
+vehicle,M,shot,other,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+toy weapon,M,shot,attack,Not fleeing,False,True
+meat cleaver,M,shot,attack,Foot,False,False
+vehicle,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot and Tasered,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,True,False
+knife,F,shot and Tasered,other,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,undetermined,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,attack,Foot,False,True
+box cutter,M,shot and Tasered,attack,Car,False,False
+unarmed,M,shot and Tasered,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,other,Foot,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Foot,False,True
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+unarmed,M,shot and Tasered,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+vehicle,M,shot,attack,Car,False,False
+knife,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot and Tasered,attack,Foot,False,False
+carjack,M,shot,undetermined,Not fleeing,False,False
+vehicle,M,shot,attack,Car,False,False
+knife,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Car,False,False
+toy weapon,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+knife,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+toy weapon,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,True
+box cutter,M,shot and Tasered,attack,Not fleeing,False,False
+chain,M,shot,attack,Not fleeing,True,False
+box cutter,M,shot,other,Not fleeing,True,False
+contractor's level,M,shot,attack,Not fleeing,False,False
+undetermined,M,shot,undetermined,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,True,True
+unarmed,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+knife,M,shot,other,Not fleeing,False,False
+unarmed,M,shot,undetermined,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Foot,False,False
+guns and explosives,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,True,True
+unarmed,M,shot,attack,Not fleeing,True,True
+gun,M,shot,attack,Not fleeing,False,True
+metal pipe,M,shot and Tasered,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,True
+toy weapon,M,shot,attack,Not fleeing,False,True
+metal pipe,M,shot,other,Not fleeing,True,True
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,F,shot,undetermined,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Car,False,True
+gun,M,shot,attack,Not fleeing,False,False
+metal pipe,M,shot,other,Foot,True,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+guns and explosives,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Car,False,False
+knife,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+undetermined,M,shot,undetermined,Other,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Car,False,False
+unarmed,M,shot,attack,Not fleeing,False,True
+unknown weapon,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,True,False
+gun,M,shot,undetermined,Car,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,undetermined,Car,False,False
+undetermined,M,shot,undetermined,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,True,True
+gun,M,shot,attack,Not fleeing,True,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,F,shot,attack,Not fleeing,False,False
+unarmed,M,shot and Tasered,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+stapler,M,shot,other,Foot,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,other,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,undetermined,Not fleeing,False,True
+knife,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+screwdriver,M,shot,other,Not fleeing,False,True
+unarmed,M,shot,undetermined,Other,False,False
+box cutter,M,shot and Tasered,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,F,shot,other,Not fleeing,True,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot and Tasered,attack,Foot,False,False
+toy weapon,M,shot,attack,Not fleeing,True,False
+blunt object,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Car,False,False
+knife,M,shot and Tasered,attack,Not fleeing,False,False
+knife,F,shot,other,Not fleeing,False,True
+unarmed,M,shot,undetermined,Not fleeing,False,False
+beer bottle,M,shot,undetermined,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+machete,M,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,False
+gun,F,shot,attack,Not fleeing,False,False
+vehicle,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,other,Car,False,True
+crossbow,M,shot,attack,Not fleeing,False,False
+unknown weapon,M,shot and Tasered,undetermined,Not fleeing,False,False
+undetermined,M,shot,undetermined,Other,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+machete,M,shot,other,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,F,shot,attack,Car,False,True
+vehicle,M,shot,other,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,F,shot,attack,Car,False,True
+toy weapon,M,shot,attack,Car,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+undetermined,M,shot,undetermined,Foot,False,False
+toy weapon,M,shot,attack,Not fleeing,False,False
+knife,M,shot and Tasered,other,Not fleeing,False,True
+gun,M,shot,undetermined,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,True
+vehicle,M,shot,attack,Not fleeing,False,False
+toy weapon,M,shot,attack,Not fleeing,False,False
+toy weapon,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+knife,M,shot,other,Other,False,False
+unarmed,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+knife,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+undetermined,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,True,False
+undetermined,M,shot,undetermined,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+undetermined,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,other,Not fleeing,False,False
+gun,F,shot,attack,Not fleeing,False,False
+unarmed,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,True,False
+unarmed,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Other,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,other,Foot,False,False
+knife,M,shot and Tasered,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,other,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,undetermined,Not fleeing,True,False
+gun,M,shot,attack,Car,False,False
+unarmed,M,shot,other,Car,True,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Car,False,False
+knife,M,shot,attack,Foot,False,False
+unarmed,M,shot,other,Foot,True,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,True
+hammer,M,shot,attack,Not fleeing,False,False
+gun,F,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+vehicle,M,shot,other,Car,False,False
+undetermined,M,shot,undetermined,Not fleeing,False,False
+vehicle,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+bean-bag gun,M,shot and Tasered,other,Not fleeing,False,False
+toy weapon,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,other,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,other,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,False
+toy weapon,M,shot,attack,Not fleeing,False,False
+undetermined,M,shot,undetermined,,False,False
+gun,M,shot,attack,Foot,False,False
+hammer,M,shot,other,Not fleeing,False,False
+toy weapon,M,shot,attack,Not fleeing,False,False
+Taser,M,shot and Tasered,attack,Not fleeing,False,False
+unknown weapon,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,undetermined,Not fleeing,False,False
+vehicle,M,shot,undetermined,Car,False,False
+vehicle,M,shot,other,Car,False,False
+gun,M,shot,undetermined,Car,False,False
+gun,M,shot,attack,Foot,False,True
+gun,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,other,Car,False,False
+unarmed,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+unknown weapon,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,,False,False
+knife,M,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+unarmed,M,shot,attack,Not fleeing,False,True
+unarmed,M,shot,attack,Foot,False,False
+knife,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot and Tasered,other,Not fleeing,True,False
+gun,M,shot,attack,Not fleeing,False,False
+toy weapon,M,shot,other,Not fleeing,False,False
+toy weapon,M,shot and Tasered,attack,Foot,True,True
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,F,shot,attack,Not fleeing,False,False
+unarmed,M,shot,other,Car,True,False
+gun,M,shot,attack,Not fleeing,False,False
+baseball bat and fireplace poker,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,,False,False
+vehicle,M,shot,attack,Car,False,False
+gun,M,shot,attack,Foot,False,False
+undetermined,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+gun,F,shot,attack,Car,False,False
+gun,M,shot,attack,Car,False,False
+knife,M,shot,other,Not fleeing,False,False
+gun,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+metal stick,M,shot and Tasered,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+straight edge razor,M,shot and Tasered,other,Not fleeing,True,False
+gun,M,shot,other,Not fleeing,False,False
+gun,F,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,False,True
+unarmed,M,shot,other,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,True
+gun and knife,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+Taser,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+knife,M,shot,attack,,False,False
+unknown weapon,M,shot,attack,,False,False
+gun,F,shot,attack,Not fleeing,False,True
+ax,M,shot,other,Not fleeing,False,True
+knife,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,True,False
+knife,M,shot and Tasered,other,Not fleeing,False,True
+undetermined,M,shot,undetermined,Not fleeing,False,False
+gun,F,shot,attack,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,False,False
+undetermined,M,shot,undetermined,,True,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,attack,Car,False,False
+knife,M,shot,attack,Not fleeing,False,True
+machete,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Other,False,False
+gun,F,shot,attack,Other,False,False
+vehicle,M,shot,attack,Car,False,False
+toy weapon,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,,False,False
+undetermined,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,True,False
+gun,M,shot,attack,Not fleeing,True,False
+undetermined,M,shot,undetermined,Car,False,False
+gun,M,shot,undetermined,Foot,True,False
+unarmed,M,shot,other,Not fleeing,False,True
+vehicle,M,shot,other,Car,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,True
+brick,M,shot,other,Not fleeing,False,True
+unarmed,F,shot,other,,False,False
+baseball bat,M,shot,undetermined,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,True,False
+undetermined,M,shot,undetermined,Car,False,False
+knife,M,shot,other,Not fleeing,True,True
+undetermined,M,shot,undetermined,Not fleeing,False,False
+toy weapon,M,shot,attack,Not fleeing,True,False
+knife,F,shot,other,Not fleeing,False,True
+unknown weapon,M,shot,undetermined,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,True,False
+undetermined,M,shot,undetermined,,False,False
+unarmed,M,shot,other,Not fleeing,True,False
+knife,M,shot,other,Not fleeing,True,False
+knife,M,shot and Tasered,other,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+undetermined,M,shot,undetermined,Not fleeing,False,False
+gun,M,shot,attack,Foot,True,False
+vehicle,M,shot,attack,Foot,False,False
+knife,M,shot,other,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,other,Not fleeing,False,True
+hand torch,M,shot,other,Foot,False,False
+knife,M,shot and Tasered,other,Not fleeing,False,True
+toy weapon,M,shot,other,Foot,False,True
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+chain saw,M,shot,other,Not fleeing,False,True
+toy weapon,F,shot,attack,Not fleeing,False,True
+vehicle,M,shot,attack,Car,False,False
+toy weapon,M,shot,attack,Foot,False,True
+gun,M,shot,other,Not fleeing,False,False
+unarmed,F,shot,other,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,other,Foot,True,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+toy weapon,M,shot,other,Foot,False,False
+gun,M,shot,attack,Foot,False,False
+toy weapon,M,shot,other,Not fleeing,False,False
+unarmed,F,shot,other,Car,False,False
+vehicle,M,shot,other,Car,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot and Tasered,other,Not fleeing,False,False
+gun,M,shot and Tasered,other,Not fleeing,False,False
+gun,M,shot,attack,Foot,True,False
+unarmed,M,shot,other,Not fleeing,True,False
+gun,M,shot,attack,Not fleeing,False,True
+toy weapon,M,shot,other,Not fleeing,False,False
+knife,M,shot,other,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,True
+garden tool,M,shot,other,Not fleeing,True,True
+gun,M,shot,attack,Car,False,False
+knife,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,other,Foot,True,False
+knife,M,shot,other,Other,False,False
+gun,M,shot,attack,Car,False,True
+toy weapon,M,shot,other,Not fleeing,True,False
+knife,M,shot and Tasered,other,Not fleeing,False,True
+gun,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Other,True,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,False
+toy weapon,M,shot,other,Not fleeing,False,True
+vehicle,F,shot,other,Car,False,True
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Car,False,False
+vehicle,F,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,True
+gun,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Other,False,False
+gun,M,shot,other,Not fleeing,False,False
+vehicle,F,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+scissors,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Car,False,False
+knife,M,shot and Tasered,attack,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,False,False
+unarmed,M,shot and Tasered,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+toy weapon,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Car,True,True
+knife,M,shot and Tasered,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,True,False
+knife,M,shot,other,Not fleeing,True,True
+unarmed,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+toy weapon,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,other,Car,False,False
+gun,M,shot,other,Car,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,True,False
+gun,M,shot,attack,Car,True,False
+gun,M,shot,other,Other,False,False
+gun,M,shot,other,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+unarmed,M,shot,other,Not fleeing,False,False
+vehicle,M,shot,other,Car,False,False
+unarmed,M,shot,undetermined,Not fleeing,True,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,True,True
+gun,M,shot,attack,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,False,True
+ax,M,shot,other,Not fleeing,False,False
+machete,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,other,Not fleeing,False,False
+gun,F,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Car,True,True
+gun,M,shot and Tasered,attack,Not fleeing,True,False
+unarmed,M,shot,other,Other,False,False
+unarmed,M,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,True
+gun,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+undetermined,M,shot,undetermined,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,True
+vehicle,M,shot,attack,Car,False,False
+gun,M,shot,other,Foot,False,False
+toy weapon,M,shot,other,Other,False,False
+undetermined,M,shot and Tasered,other,Not fleeing,False,False
+undetermined,M,shot,undetermined,Not fleeing,False,False
+undetermined,M,shot,undetermined,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,True,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,True
+undetermined,M,shot,other,Not fleeing,False,False
+gun,F,shot,attack,Foot,False,True
+gun,F,shot,other,Not fleeing,False,False
+undetermined,M,shot,other,Not fleeing,False,False
+gun,F,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Other,False,False
+knife,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,other,Car,False,True
+toy weapon,M,shot,other,Not fleeing,False,False
+vehicle,M,shot,attack,Not fleeing,False,True
+gun,M,shot,other,Other,False,False
+machete,M,shot and Tasered,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+vehicle,M,shot,other,Car,False,False
+vehicle,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,undetermined,Car,False,False
+gun,M,shot,attack,Foot,True,False
+pole,M,shot,undetermined,Not fleeing,True,False
+gun,M,shot,attack,Not fleeing,True,False
+gun,M,shot,attack,Not fleeing,False,True
+toy weapon,M,shot,other,Not fleeing,False,True
+unarmed,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,True,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,other,Not fleeing,False,True
+knife,M,shot and Tasered,other,Not fleeing,False,False
+knife,M,shot,other,Car,False,False
+undetermined,M,shot,undetermined,,False,False
+unarmed,M,shot,undetermined,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+unarmed,M,shot,undetermined,Foot,False,False
+gun,M,shot,attack,Other,False,False
+gun,M,shot,attack,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,False,False
+undetermined,M,shot,undetermined,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,other,Car,False,False
+toy weapon,M,shot,attack,Not fleeing,False,True
+toy weapon,M,shot,other,Not fleeing,False,False
+toy weapon,M,shot,attack,Foot,False,True
+gun,M,shot,other,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,True
+vehicle,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,True,False
+gun,M,shot,attack,Not fleeing,True,True
+knife,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Foot,False,False
+unarmed,M,shot and Tasered,other,Foot,False,False
+Taser,M,shot and Tasered,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,True,True
+vehicle,M,shot,attack,Car,False,True
+unarmed,M,shot,undetermined,Car,False,False
+unarmed,M,shot,other,Car,True,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+hammer,F,shot,attack,Not fleeing,False,False
+gun,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,other,Foot,False,False
+knife,M,shot,other,Car,True,False
+gun,M,shot,other,Other,True,False
+unarmed,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,other,Not fleeing,True,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,other,Not fleeing,False,False
+toy weapon,F,shot,attack,Not fleeing,False,False
+undetermined,M,shot,undetermined,Car,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Other,False,False
+knife,M,shot,other,Not fleeing,True,True
+gun,M,shot,attack,Other,False,False
+gun,M,shot,attack,Foot,False,False
+toy weapon,M,shot,other,Not fleeing,False,True
+knife,M,shot and Tasered,other,Not fleeing,True,True
+toy weapon,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Car,False,True
+pick-axe,M,shot,other,Not fleeing,False,True
+vehicle,M,shot,attack,Other,True,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Foot,True,False
+gun,M,shot,attack,Not fleeing,False,True
+knife,M,shot,other,Foot,False,False
+toy weapon,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun and knife,M,shot,other,Not fleeing,True,False
+gun,M,shot,attack,Not fleeing,True,False
+gun,M,shot,attack,Not fleeing,False,False
+meat cleaver,M,shot,other,Not fleeing,False,True
+gun,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,True,False
+gun,M,shot,attack,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,False,True
+scissors,F,shot,other,Not fleeing,True,False
+gun,M,shot,attack,Not fleeing,True,True
+gun,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+flashlight,M,shot and Tasered,attack,Not fleeing,True,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,F,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,undetermined,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Foot,True,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+shovel,M,shot,undetermined,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+undetermined,M,shot,undetermined,,False,False
+unknown weapon,F,shot,other,Not fleeing,True,True
+gun,M,shot,attack,Foot,False,False
+Taser,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,False,True
+unarmed,M,shot,attack,Not fleeing,True,False
+ax,M,shot,other,Not fleeing,False,False
+ax,F,shot,attack,Not fleeing,True,False
+knife,M,shot and Tasered,attack,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,False,False
+vehicle,M,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Foot,False,True
+hatchet,F,shot,other,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,True,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,other,Car,False,False
+knife,M,shot,attack,Not fleeing,False,True
+knife,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+unarmed,M,shot,other,Car,False,False
+gun,M,shot,attack,Car,False,False
+vehicle,M,shot,other,Car,True,False
+undetermined,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+unarmed,M,shot and Tasered,attack,Not fleeing,False,True
+baseball bat,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+undetermined,M,shot,attack,Foot,True,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,F,shot,other,Car,False,False
+unarmed,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Foot,False,False
+vehicle,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Other,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+undetermined,M,shot,other,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,True
+knife,M,shot,attack,Not fleeing,False,True
+vehicle,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+vehicle,M,shot and Tasered,other,Car,True,False
+gun,F,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,True,True
+gun,F,shot,attack,Car,False,True
+gun,M,shot,other,Other,False,False
+gun,M,shot,attack,Not fleeing,False,False
+machete,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,True,True
+knife,M,shot and Tasered,other,Not fleeing,True,True
+vehicle,M,shot,other,Car,False,False
+vehicle,M,shot,attack,Car,False,False
+knife,M,shot,other,Not fleeing,False,False
+knife,M,shot,other,Foot,False,False
+vehicle,M,shot,attack,Car,False,False
+knife,M,shot,other,Not fleeing,True,False
+toy weapon,M,shot,attack,Not fleeing,False,False
+gun,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,False
+vehicle,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+knife,M,shot,other,Not fleeing,False,False
+undetermined,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,attack,Car,False,False
+gun,M,shot,attack,Foot,True,False
+gun,F,shot,attack,Not fleeing,False,False
+gun,M,shot,other,Not fleeing,False,True
+gun,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Other,False,False
+knife,M,shot and Tasered,other,Not fleeing,False,False
+toy weapon,M,shot,other,Not fleeing,False,False
+toy weapon,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,attack,Not fleeing,False,False
+gun,M,shot,other,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Other,False,True
+knife,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Car,False,False
+vehicle,M,shot,other,Car,True,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Car,False,True
+gun,M,shot,attack,Not fleeing,True,False
+knife,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,True,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot and Tasered,other,Not fleeing,False,True
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Foot,False,False
+ax,M,shot,other,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Other,False,False
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,attack,Not fleeing,False,False
+unarmed,F,shot,undetermined,Car,False,False
+knife,M,shot,other,Not fleeing,True,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,other,Not fleeing,False,False
+knife,M,shot,other,Foot,True,False
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,True,True
+unarmed,M,shot,other,Car,True,False
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,other,Car,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Foot,True,False
+knife,M,shot,other,Not fleeing,False,False
+Taser,M,shot,other,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,True
+vehicle,M,shot,other,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,other,Not fleeing,False,False
+undetermined,M,shot,undetermined,Foot,False,False
+gun,M,shot,attack,Car,False,False
+knife,F,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,True,False
+gun,M,shot,attack,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,True,False
+unarmed,M,shot and Tasered,other,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Foot,True,False
+gun,M,shot,attack,Foot,False,False
+knife,M,shot,other,Not fleeing,True,True
+gun,M,shot,other,Not fleeing,True,False
+knife,M,shot,other,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,False
+undetermined,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Other,True,False
+knife,M,shot,other,Not fleeing,True,True
+gun,M,shot,other,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,False
+unarmed,M,shot,other,Car,True,False
+vehicle,M,shot,other,Not fleeing,False,False
+gun,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,,False,False
+gun,M,shot,other,Foot,False,False
+gun,M,shot,attack,Not fleeing,True,True
+baton,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+baseball bat,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,True,False
+gun,M,shot,attack,Car,False,False
+spear,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,True,True
+knife,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+undetermined,M,shot,undetermined,Car,False,False
+vehicle,M,shot,other,Car,True,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+undetermined,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,attack,Car,False,False
+gun,M,shot,attack,Car,False,True
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,True,False
+vehicle,M,shot,attack,Car,False,False
+gun,M,shot,other,Not fleeing,False,True
+toy weapon,M,shot,attack,Not fleeing,True,False
+vehicle,M,shot,other,Car,False,False
+unarmed,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot and Tasered,other,Not fleeing,True,False
+toy weapon,M,shot,attack,Car,False,True
+gun,M,shot,attack,Not fleeing,False,True
+undetermined,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,attack,Car,False,False
+knife,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+unarmed,M,shot,undetermined,Other,False,False
+gun,M,shot,attack,Not fleeing,True,False
+gun,M,shot,other,Not fleeing,True,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,undetermined,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,F,shot,attack,Not fleeing,False,True
+gun,M,shot,other,Other,False,True
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,other,Car,True,True
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot and Tasered,attack,Other,False,False
+gun,M,shot,attack,Not fleeing,False,False
+baseball bat,M,shot,attack,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+toy weapon,M,shot,attack,Not fleeing,False,True
+toy weapon,M,shot,attack,Not fleeing,True,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+toy weapon,M,shot,other,Car,False,False
+knife,M,shot,other,Foot,False,False
+knife,M,shot,attack,Not fleeing,False,False
+undetermined,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+pitchfork,M,shot,other,Not fleeing,False,True
+gun,M,shot,undetermined,,False,False
+gun,M,shot,attack,Not fleeing,False,False
+undetermined,M,shot,undetermined,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot and Tasered,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,False
+gun,M,shot,other,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,True
+vehicle,M,shot,other,Car,False,False
+vehicle,M,shot,other,Car,False,False
+gun,M,shot,attack,Not fleeing,True,False
+gun,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,True,False
+undetermined,M,shot and Tasered,undetermined,Not fleeing,True,False
+undetermined,M,shot,undetermined,,False,False
+undetermined,M,shot,other,Car,False,False
+knife,F,shot,other,Not fleeing,False,False
+gun,M,shot,other,Not fleeing,False,False
+gun,M,shot,other,Not fleeing,True,False
+knife,M,shot,other,Not fleeing,False,False
+vehicle,M,shot,other,Car,False,False
+gun,M,shot,attack,Not fleeing,True,False
+knife,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Car,False,False
+gun,M,shot,other,Not fleeing,True,False
+knife,M,shot,other,Not fleeing,True,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+hatchet,M,shot,attack,Not fleeing,False,True
+gun,M,shot,undetermined,Foot,True,False
+toy weapon,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot and Tasered,attack,Other,False,False
+gun,M,shot,other,Foot,False,False
+gun,M,shot,other,Not fleeing,False,False
+screwdriver,M,shot and Tasered,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+ax,M,shot,other,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+hatchet and gun,M,shot,attack,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,other,,False,False
+knife,M,shot,other,Foot,True,False
+gun,M,shot,attack,Foot,False,False
+unarmed,M,shot,attack,Foot,False,True
+knife,M,shot,other,Foot,True,False
+knife,M,shot,other,Not fleeing,False,True
+knife,M,shot,attack,Not fleeing,False,False
+undetermined,M,shot,undetermined,Not fleeing,False,False
+,M,shot,other,Car,False,False
+vehicle,M,shot,other,Car,True,False
+gun,M,shot,attack,Other,False,False
+unarmed,M,shot,attack,Other,False,False
+undetermined,M,shot,other,Car,True,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,F,shot,attack,Not fleeing,False,False
+rock,M,shot,attack,Foot,False,False
+undetermined,M,shot,undetermined,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,True,True
+undetermined,M,shot,undetermined,Not fleeing,False,False
+gun,F,shot,attack,Not fleeing,False,False
+vehicle,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+knife,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Car,False,True
+undetermined,M,shot,other,Foot,False,False
+gun,M,shot,attack,Foot,False,False
+knife,M,shot,attack,Not fleeing,False,False
+gun,M,shot,other,Car,False,False
+knife,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+crossbow,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+knife,M,shot,attack,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,True,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+undetermined,M,shot,attack,Other,False,False
+gun,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Foot,True,False
+undetermined,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+knife,M,shot,undetermined,Other,False,False
+undetermined,M,shot,other,Car,False,False
+hammer,M,shot and Tasered,other,Not fleeing,True,True
+vehicle,M,shot,other,Car,False,False
+gun,M,shot,other,Foot,True,False
+knife,M,shot,attack,Not fleeing,False,True
+gun,M,shot,other,Not fleeing,False,False
+metal pole,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Other,False,False
+unarmed,M,shot,attack,Not fleeing,False,False
+gun,M,shot,other,Foot,False,False
+gun,M,shot,other,Not fleeing,False,False
+gun,M,shot,other,Car,False,False
+gun,M,shot,attack,Foot,True,False
+toy weapon,M,shot,other,Not fleeing,False,False
+gun,M,shot,other,Foot,True,False
+piece of wood,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+unarmed,M,shot,other,Car,True,False
+knife,M,shot,other,Not fleeing,False,False
+undetermined,M,shot,other,Car,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+bayonet,M,shot,undetermined,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+toy weapon,M,shot,attack,Not fleeing,True,True
+undetermined,M,shot,undetermined,Car,False,False
+knife,M,shot,other,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,True,False
+knife,M,shot,other,Not fleeing,True,False
+knife,M,shot,attack,Not fleeing,False,False
+gun,M,shot,other,Car,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot and Tasered,other,Not fleeing,True,False
+gun,M,shot,attack,Foot,False,False
+undetermined,M,shot,undetermined,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+toy weapon,M,shot,attack,Not fleeing,False,False
+knife,M,shot and Tasered,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,True,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Foot,False,False
+knife,M,shot and Tasered,attack,Not fleeing,False,False
+gun,F,shot,attack,Not fleeing,False,False
+gun,M,shot and Tasered,attack,Foot,True,False
+chain saw,M,shot and Tasered,attack,Not fleeing,False,True
+unarmed,M,shot,undetermined,Not fleeing,False,False
+gun,M,shot,attack,Other,False,False
+knife,M,shot and Tasered,other,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+vehicle,M,shot,other,Car,False,False
+vehicle,M,shot,other,Not fleeing,False,True
+gun,M,shot,other,Car,True,False
+gun,M,shot,other,Foot,False,False
+pipe,M,shot and Tasered,other,Not fleeing,False,False
+gun,M,shot,attack,Foot,True,False
+gun,M,shot,attack,Car,True,True
+glass shard,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Other,False,False
+undetermined,M,shot,undetermined,Foot,False,False
+undetermined,M,shot,undetermined,Not fleeing,False,False
+gun,M,shot,undetermined,Other,False,False
+gun,M,shot,attack,Car,False,False
+knife,M,shot,other,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Car,False,False
+gun,M,shot,other,Not fleeing,False,False
+vehicle,M,shot,other,Other,False,False
+gun,M,shot,attack,Car,False,True
+undetermined,M,shot,undetermined,Car,False,False
+gun,M,shot,other,Not fleeing,True,False
+sword,M,shot,attack,Not fleeing,False,True
+knife,M,shot,attack,Not fleeing,False,False
+undetermined,M,shot,undetermined,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+toy weapon,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+unknown weapon,M,shot,other,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,False,False
+toy weapon,M,shot,other,Not fleeing,True,True
+gun,M,shot,attack,Not fleeing,True,False
+motorcycle,M,shot,attack,Other,False,False
+gun,M,shot,other,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,False
+undetermined,M,shot,undetermined,Car,False,False
+toy weapon,M,shot,other,Foot,False,False
+gun,M,shot,other,Other,False,False
+gun,M,shot and Tasered,attack,Foot,False,False
+gun,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot and Tasered,undetermined,Not fleeing,False,False
+unarmed,M,shot,undetermined,Foot,True,False
+knife,M,shot,attack,Not fleeing,False,False
+hatchet,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+toy weapon,M,shot,attack,Other,True,False
+gun,M,shot,attack,Not fleeing,False,True
+knife,M,shot,attack,Not fleeing,False,False
+gun,M,shot,other,Not fleeing,False,False
+gun,F,shot,attack,Not fleeing,True,True
+unknown weapon,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,other,Car,True,False
+gun,M,shot,attack,Not fleeing,False,True
+unknown weapon,M,shot,other,Not fleeing,False,False
+gun,M,shot,other,Not fleeing,True,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,other,Foot,False,False
+unarmed,M,shot,undetermined,Not fleeing,False,False
+undetermined,M,shot,attack,Foot,False,False
+vehicle,M,shot,other,Not fleeing,True,False
+gun,M,shot,other,Foot,False,False
+gun,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Other,False,False
+gun,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,True,False
+gun,M,shot,other,Not fleeing,True,True
+unarmed,M,shot,attack,Not fleeing,True,True
+vehicle,M,shot,other,Car,False,False
+undetermined,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,True,False
+gun,M,shot,attack,Not fleeing,True,False
+,M,shot,undetermined,Not fleeing,False,False
+undetermined,M,shot,undetermined,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Other,False,False
+undetermined,M,shot,undetermined,Not fleeing,False,False
+gun,M,shot,other,Foot,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,undetermined,Foot,True,False
+toy weapon,M,shot,attack,Not fleeing,True,True
+unknown weapon,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,other,Not fleeing,False,False
+brick,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,other,Not fleeing,False,True
+machete,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Car,False,False
+,M,shot,other,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+toy weapon,M,shot,other,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,True
+vehicle,M,shot,other,Not fleeing,False,False
+knife,F,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,other,Car,False,True
+gun,M,shot,other,Not fleeing,False,False
+undetermined,M,shot,other,Not fleeing,False,True
+gun,M,shot,other,,False,False
+vehicle,M,shot,other,Car,False,False
+knife,M,shot,other,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,other,Car,True,False
+knife,M,shot and Tasered,other,,False,True
+gun,M,shot,other,Not fleeing,False,False
+baseball bat,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+toy weapon,F,shot,attack,Not fleeing,False,True
+metal rake,M,shot and Tasered,attack,Not fleeing,False,True
+sword,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Foot,False,True
+knife,M,shot and Tasered,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,True,False
+baseball bat,F,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,undetermined,Car,False,False
+gun,M,shot,other,Not fleeing,False,False
+undetermined,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot and Tasered,other,,False,False
+gun,F,shot,other,Not fleeing,False,True
+unknown weapon,M,shot,other,Not fleeing,False,True
+toy weapon,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+toy weapon,M,shot,other,Not fleeing,False,False
+toy weapon,M,shot,attack,Not fleeing,False,True
+toy weapon,F,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,True
+gun,M,shot,other,Not fleeing,False,False
+unarmed,M,shot and Tasered,attack,Not fleeing,False,False
+gun,M,shot,other,Not fleeing,False,True
+gun and knife,M,shot,other,Not fleeing,False,False
+undetermined,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Other,False,False
+gun,M,shot,attack,Not fleeing,False,True
+knife,M,shot,attack,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,False,True
+vehicle,M,shot,other,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+vehicle,F,shot,attack,Car,False,True
+knife,M,shot,attack,Not fleeing,False,False
+gun,F,shot,attack,Other,False,False
+gun,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,True,True
+undetermined,M,shot,undetermined,Other,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,True
+gun,F,shot,attack,Not fleeing,False,False
+undetermined,M,shot,undetermined,Not fleeing,False,False
+gun,M,shot,attack,Other,False,True
+knife,M,shot,other,Not fleeing,False,True
+vehicle,M,shot,other,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,undetermined,,False,False
+gun,M,shot,other,Other,True,False
+undetermined,M,shot and Tasered,undetermined,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+vehicle,M,shot and Tasered,undetermined,Car,False,False
+metal pipe,M,shot,other,Foot,False,False
+vehicle,M,shot,other,Car,False,False
+hammer,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Other,False,False
+unarmed,M,shot and Tasered,attack,Car,False,False
+gun,M,shot,attack,Other,False,False
+vehicle,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,undetermined,,False,False
+gun,M,shot,attack,Not fleeing,False,False
+,M,shot and Tasered,undetermined,,False,False
+vehicle,M,shot,attack,Car,False,False
+gun,M,shot,attack,Other,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+baseball bat,M,shot and Tasered,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,True,False
+gun,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,other,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,False
+machete,M,shot,other,Not fleeing,False,False
+gun,M,shot,other,Not fleeing,False,False
+gun,M,shot and Tasered,other,Not fleeing,False,True
+machete,M,shot and Tasered,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+machete,M,shot and Tasered,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,attack,Foot,True,False
+knife,M,shot and Tasered,other,Foot,True,False
+gun,M,shot,attack,Not fleeing,False,False
+baton,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,other,Foot,False,False
+gun,M,shot,attack,Foot,False,False
+knife,M,shot,other,Foot,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,other,Car,False,False
+undetermined,M,shot,undetermined,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,False
+undetermined,M,shot,undetermined,Foot,False,False
+knife,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,,False,False
+gun,M,shot,attack,Other,False,False
+unarmed,M,shot,other,Not fleeing,True,False
+undetermined,M,shot,attack,Car,False,False
+blunt object,M,shot and Tasered,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,False
+gun,M,shot,undetermined,Foot,False,False
+vehicle,M,shot,other,Car,False,False
+gun,M,shot,other,Not fleeing,False,False
+rock,M,shot,other,Car,True,False
+knife,M,shot,other,Not fleeing,False,True
+undetermined,M,shot,other,Foot,False,False
+gun,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,,False,False
+gun,M,shot,attack,Not fleeing,False,False
+crowbar,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+undetermined,M,shot,undetermined,Not fleeing,False,True
+gun,M,shot,attack,Foot,False,False
+undetermined,M,shot,other,Foot,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+oar,M,shot and Tasered,attack,Other,False,False
+knife,M,shot and Tasered,other,Not fleeing,True,False
+undetermined,M,shot,undetermined,,False,False
+gun,M,shot,attack,Not fleeing,False,False
+undetermined,M,shot,other,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+machete and gun,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Foot,False,False
+knife,M,shot,other,Not fleeing,True,False
+knife,M,shot and Tasered,other,Not fleeing,False,True
+vehicle,M,shot,other,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,False
+toy weapon,F,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+unarmed,M,shot,undetermined,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot and Tasered,other,Not fleeing,False,True
+gun,M,shot and Tasered,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,undetermined,Not fleeing,False,False
+gun,M,shot,other,Not fleeing,False,False
+gun,M,shot,other,Not fleeing,False,False
+undetermined,M,shot,undetermined,Foot,False,False
+gun,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+undetermined,M,shot,undetermined,Not fleeing,False,False
+gun,M,shot,other,Other,False,False
+knife,M,shot,other,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,True
+tire iron,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Other,False,False
+vehicle,M,shot,other,,False,False
+vehicle,M,shot,attack,Car,False,False
+knife,M,shot,other,Not fleeing,False,True
+knife,M,shot,undetermined,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+undetermined,M,shot and Tasered,undetermined,Not fleeing,False,False
+crossbow,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,other,Car,False,False
+gun,M,shot,undetermined,Not fleeing,False,False
+knife,F,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+scissors,M,shot,attack,Not fleeing,False,True
+knife,M,shot,other,Not fleeing,True,False
+gun,M,shot,attack,Car,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,F,shot,attack,Not fleeing,False,False
+undetermined,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Other,False,False
+undetermined,M,shot,undetermined,Not fleeing,False,False
+gun,M,shot,undetermined,Not fleeing,True,False
+gun,M,shot,other,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot and Tasered,other,Foot,False,False
+unarmed,M,shot and Tasered,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Other,False,False
+gun,M,shot,other,Not fleeing,False,False
+knife,M,shot,undetermined,,False,False
+gun,M,shot and Tasered,attack,Not fleeing,False,True
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Foot,False,False
+vehicle,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,True,True
+knife,M,shot and Tasered,other,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,other,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+undetermined,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Other,False,False
+knife,M,shot,other,Car,False,False
+gun,M,shot,attack,Other,False,False
+unarmed,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,True
+,M,shot,other,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,True
+unarmed,M,shot,other,Foot,True,False
+gun,M,shot,attack,Car,False,False
+knife,M,shot,other,Not fleeing,False,False
+unarmed,M,shot and Tasered,attack,Not fleeing,False,False
+unarmed,M,shot,undetermined,Not fleeing,False,False
+gun,M,shot,attack,Other,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,undetermined,,False,True
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,undetermined,Car,False,False
+gun,M,shot,attack,Foot,False,False
+screwdriver,M,shot and Tasered,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,F,shot and Tasered,other,Not fleeing,False,True
+gun,M,shot,other,Foot,False,False
+knife,M,shot and Tasered,other,Foot,True,False
+gun,M,shot,attack,Car,False,False
+pole and knife,M,shot,undetermined,,False,False
+gun and knife,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,True
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot and Tasered,other,Not fleeing,True,False
+metal pipe,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+vehicle,F,shot,other,Car,False,False
+hatchet,M,shot,other,Car,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot and Tasered,attack,Not fleeing,False,True
+gun,M,shot,other,Not fleeing,False,True
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot and Tasered,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,other,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,True,False
+gun,M,shot,attack,Foot,False,False
+unarmed,M,shot,attack,Not fleeing,True,True
+gun,M,shot,other,Not fleeing,False,False
+knife,M,shot and Tasered,other,Not fleeing,False,True
+gun,M,shot,other,Not fleeing,False,False
+undetermined,M,shot,undetermined,Car,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Other,False,False
+knife,M,shot,attack,Foot,False,False
+undetermined,M,shot,attack,Not fleeing,False,True
+gun,M,shot and Tasered,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+vehicle,M,shot,attack,Car,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,M,shot,other,Car,False,False
+gun,M,shot,attack,Not fleeing,True,True
+undetermined,M,shot,other,Car,True,False
+metal pipe,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,True,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+Taser,M,shot,attack,Not fleeing,False,True
+unarmed,M,shot,undetermined,Foot,False,False
+gun,M,shot,other,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,True
+gun and knife,M,shot and Tasered,attack,Not fleeing,False,True
+beer bottle,M,shot and Tasered,other,Not fleeing,False,False
+knife,M,shot and Tasered,attack,Not fleeing,False,True
+vehicle,M,shot,attack,Car,False,False
+vehicle,M,shot,attack,Car,False,False
+unarmed,M,shot,undetermined,Not fleeing,False,False
+gun,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,other,Car,False,False
+gun,M,shot,other,Not fleeing,False,False
+unarmed,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+unarmed,M,shot,attack,Not fleeing,False,True
+undetermined,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,other,Not fleeing,True,False
+toy weapon,M,shot,attack,Not fleeing,False,False
+gun,M,shot,other,Not fleeing,False,False
+knife,M,shot and Tasered,attack,Foot,False,False
+piece of wood,M,shot and Tasered,undetermined,Not fleeing,False,False
+unknown weapon,M,shot,attack,Car,False,False
+gun,M,shot,other,Other,True,False
+gun,M,shot,attack,Not fleeing,False,False
+vehicle,M,shot,other,,False,False
+gun,M,shot,other,Not fleeing,False,False
+knife,M,shot,other,,False,False
+unarmed,M,shot,undetermined,,False,False
+unarmed,M,shot and Tasered,undetermined,Not fleeing,False,False
+knife,M,shot and Tasered,other,Not fleeing,False,True
+toy weapon,M,shot,undetermined,Foot,False,False
+undetermined,M,shot,undetermined,,False,False
+undetermined,M,shot,undetermined,Foot,False,False
+gun,M,shot,other,Foot,False,False
+vehicle,M,shot,other,,False,False
+unarmed,F,shot,other,,False,False
+knife,F,shot and Tasered,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Other,True,False
+gun,M,shot,undetermined,Foot,False,False
+undetermined,M,shot,undetermined,Not fleeing,False,False
+vehicle,M,shot,other,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+metal stick,M,shot,attack,Not fleeing,True,True
+vehicle,M,shot,other,Other,False,False
+gun,M,shot,undetermined,Other,False,False
+knife,M,shot,other,Foot,False,True
+vehicle,M,shot,attack,Car,False,False
+gun,M,shot,attack,Not fleeing,False,False
+undetermined,M,shot,undetermined,Other,False,False
+knife,M,shot,other,Not fleeing,False,True
+vehicle,M,shot,other,Other,False,False
+gun,M,shot,attack,Foot,False,False
+knife,M,shot,other,Not fleeing,False,False
+unknown weapon,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
+unarmed,M,shot,attack,Not fleeing,True,True
+knife,M,shot,attack,Not fleeing,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+toy weapon,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+knife,M,shot,attack,Not fleeing,False,False
+toy weapon,M,shot,attack,Foot,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+undetermined,M,shot,undetermined,Not fleeing,False,False
+knife,M,shot and Tasered,attack,Not fleeing,False,False
+gun,M,shot,other,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,True,False
+gun,M,shot,attack,Not fleeing,True,False
+gun,M,shot,other,Other,False,False
+knife,M,shot,attack,Not fleeing,False,False
+knife,M,shot,other,Not fleeing,False,False
+knife,F,shot,other,Car,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,other,Foot,False,False
+gun,M,shot,attack,Foot,True,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,True
+gun,F,shot,attack,Car,False,False
+toy weapon,M,shot,attack,Foot,False,False
+gun,,shot,attack,Car,False,False
+knife,M,shot,other,Not fleeing,False,False
+vehicle,F,shot,other,Car,False,False
+gun,M,shot,other,Not fleeing,False,True
+gun,M,shot,other,Car,False,False
+gun,M,shot,attack,Foot,False,True
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Not fleeing,False,False
+gun,M,shot,attack,Foot,False,False
